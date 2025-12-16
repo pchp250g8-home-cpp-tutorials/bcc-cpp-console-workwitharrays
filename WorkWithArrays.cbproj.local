@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.12.16 16:37:59.074,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.12.16 16:37:59.246,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.12.16 16:39:01.924,D:\Projects\Programming\CPP\BDS\Console\InputOutput\WorkWithArrays\WorkWithArraysPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.12.16 16:39:01.935,D:\Projects\Programming\CPP\BDS\Console\InputOutput\WorkWithArrays\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.12.16 16:39:01.946,D:\Projects\Programming\CPP\BDS\Console\InputOutput\WorkWithArrays\WorkWithArrays.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025.12.16 16:39:19.268,D:\Projects\Programming\CPP\BDS\Console\InputOutput\WorkWithArrays\WorkWithArrays.cpp=D:\Projects\Programming\CPP\BDS\Console\InputOutput\WorkWithArrays\File1.cpp</Transaction>
+    <Transaction>2025.12.16 16:39:22.649,D:\Projects\Programming\CPP\BDS\Console\InputOutput\WorkWithArrays\WorkWithArrays.cbproj=D:\Projects\Programming\CPP\BDS\Console\InputOutput\WorkWithArrays\WorkWithArrays.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
